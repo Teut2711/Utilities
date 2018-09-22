@@ -1,5 +1,4 @@
-# Best Sieve Version(I just had this idea .I 'm not copying it from somewhere.I only understand Sieve of Eratosthenes at the moment.
-                                  #It might already be a method.I just though of it .)
+#  Sieve Version
 
 from math import ceil, sqrt
 from nearest_neighbour_search import index
